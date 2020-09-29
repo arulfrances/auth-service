@@ -1,4 +1,5 @@
 # auth-service
+This is Spring JWT Application
 
 Exposing Port: 8010
 
